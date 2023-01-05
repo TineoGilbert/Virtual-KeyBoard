@@ -1,3 +1,3 @@
 # VIRTUAL KEYBOARD
 
-![](Currency.png)
+![](VirtualKeyBoard.png)
